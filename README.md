@@ -1,4 +1,4 @@
-## node-madelbrot
+## node-mandelbrot
 
 Just my first NodeJS app ever committed to Github. It's an example app that produces
 [Mandelbrot](http://en.wikipedia.org/wiki/Mandelbrot_set) images. It uses the canvas
@@ -12,4 +12,4 @@ Start it with
 node app.js
 ```
 
-and open the page in the browser: http://localhost:3000
+and open the page in the [browser](http://localhost:3000)
